@@ -1,6 +1,11 @@
 package TddFibonacci;
 
 public class Fibonacci {
+    public static void main(String[] args) {
+        Fibonacci fibonacci = new Fibonacci();
+        int num = fibonacci.findNthNumber(5);
+        System.out.println(num);
+    }
     public int findNthNumber(int n) {
         if (n <= 0) {
             return -1;
