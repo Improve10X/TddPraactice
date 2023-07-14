@@ -1,4 +1,4 @@
-package TddFibonacci;
+package TddFibonacci.fibonacci;
 
 import org.junit.Test;
 
