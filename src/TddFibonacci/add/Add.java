@@ -3,7 +3,7 @@ package TddFibonacci.add;
 public class Add {
     public static void main(String[] args) {
 
-        boolean value = sumIsLessThan100(99,1);
+        boolean value = sumIsLessThan100(12,1);
         System.out.println(value);
     }
 
